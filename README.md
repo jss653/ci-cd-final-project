@@ -10,6 +10,8 @@ From the GitHub **Code** page, press the green **Use this template** button to c
 
 Name your repo: `ci-cd-final-project`.
 
+NOTE!: Project instructions says 'https' tp clone but that method is deprecated so use ssh and keys instead - just saying
+
 ## Setup
 
 After entering the lab environment you will need to run the `setup.sh` script in the `./bin` folder to install the prerequisite software.
