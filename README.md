@@ -38,3 +38,24 @@ Licensed under the Apache License. See [LICENSE](/LICENSE)
 Skills Network
 
 ## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
+    1  ls +la
+    2  ls -la
+    3  export GITHUB_ACCOUNT=https://github.com/jss653
+    4  ls -la .theia/
+    5  git clone git@github.com:jss653/ci-cd-final-project.git
+    6  ssh-keygen -t rsa -b 4096 -C "jonas.strindlund@outlook.com"
+    7  cat ~/.ssh/id_rsa.pub
+    8  git clone git@github.com:jss653/ci-cd-final-project.git
+    9  cd ci-cd-final-project
+   10  bash ./bin/setup.sh
+   11  exit
+   12  git config --global user.email "jonas.strindlund@outlook.com"
+   13  git config --global user.name jssedu
+   14  history
+   15  pwd
+   16  cd ci-cd-final-project/
+   17  history > commands.log
+   18  git status
+   19  ls -la
+   20  cat README.md 
+   21  history >> README.md 
